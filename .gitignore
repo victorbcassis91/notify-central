@@ -1,5 +1,5 @@
 HELP.md
-/backend.mvn/wrapper/maven-wrapper.jar
+/backend/.mvn/wrapper/maven-wrapper.jar
 /backend/target/
 /frontend/node_modules/
 
