@@ -1,7 +1,7 @@
 HELP.md
-.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+/backend.mvn/wrapper/maven-wrapper.jar
+/backend/target/
+/frontend/node_modules/
 
 ### STS ###
 .apt_generated
@@ -13,7 +13,9 @@ HELP.md
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+/.idea/
+/backend/.idea/
+/frontend/.idea/
 *.iws
 *.iml
 *.ipr
@@ -30,5 +32,3 @@ build/
 
 ### VS Code ###
 .vscode/
-/backend/target/
-/backend/target/
