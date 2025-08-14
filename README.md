@@ -22,20 +22,10 @@ Fullstack notification project with **Spring Boot backend** and **React + MobX f
 
 ### Setup
 
-1. Configure M2 database in `application.yml`.
+1. Configure M2, Redis, and Kafka in application.yml only if needed—standard configurations are already in place. (We support two async processing methods: Kafka-based and Executor-based.)
 
 
-2. Configure Redis and Kafka:
-```
-notifycentral.notification-type: "executor" or "kafka"
-
-spring.kafka.bootstrap-servers=localhost:9092
-
-spring.redis.host=localhost
-spring.redis.port=6379
-```
-
-3. Build and run:
+2. Build and run:
 ```
 cd backend
 mvn clean install
@@ -58,20 +48,11 @@ mvn spring-boot:run
 - WebSocket for bidirectional communication with backend  (**prototype, not production-ready**)
 
 ### Setup
-1. Install dependencies:
+
+1. Install dependencies and run:
 ```
 cd frontend
 npm install
-```
-
-2. Configure .env with backend and WebSocket URLs:
-```
-REACT_APP_API_URL=http://localhost:8080
-REACT_APP_WS_URL=ws://localhost:8080/ws
-```
-
-3. Run the application:
-```
 npm run dev
 ```
 
