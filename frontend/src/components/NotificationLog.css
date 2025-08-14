@@ -1,0 +1,26 @@
+.notification-history {
+    padding: 24px;
+    background-color: var(--mui-background-paper, #fff);
+}
+
+.history-title {
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.empty-message {
+    color: var(--mui-text-secondary, #757575);
+}
+
+.log-timestamp {
+    font-weight: bold;
+    color: var(--mui-text-primary, #000);
+}
+
+.log-chip {
+    margin: 0 4px;
+}
+
+.log-message {
+    color: var(--mui-text-secondary, #757575);
+}

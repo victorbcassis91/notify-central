@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24b211e6-dcbf-4c8d-bc4a-7de24861fc88" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;victorbcassis91&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/victorbcassis91/notify-central.git&quot;,
+    &quot;accountId&quot;: &quot;88155438-2878-4513-92d2-6f221288d177&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="31DxBNO2fSF6D5fImKH27ANwqbS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AsyncNotificationServiceTest.executor": "Run",
+    "JUnit.AsyncNotificationServiceTest.sendWithRetry_shouldSaveLogWhenSuccessOnFirstTry.executor": "Run",
+    "JUnit.ExecutorConfigurationTest.notificationExecutor_shouldCreateThreadPoolTaskExecutorWithConfiguredValues.executor": "Run",
+    "JUnit.NotificationControllerTest.executor": "Run",
+    "JUnit.NotificationControllerTest.getCategories_returnsAllEnums.executor": "Run",
+    "JUnit.NotificationControllerTest.getNotifications_paginationWorks.executor": "Run",
+    "JUnit.NotificationControllerTest.getStatusOrder_returnsValueFromRedis.executor": "Run",
+    "JUnit.NotificationControllerTest.submitMessage_executorType_success.executor": "Run",
+    "JUnit.NotificationControllerTest.submitMessage_kafkaType_success.executor": "Debug",
+    "JUnit.NotificationDispatcherIT.dispatch_shouldSendNotificationAndPersistLog.executor": "Debug",
+    "JUnit.NotificationDispatcherIT.executor": "Run",
+    "JUnit.NotificationDispatcherTest.dispatch_shouldExecuteAsyncForEachChannelOfEachUser.executor": "Run",
+    "JUnit.NotificationDispatcherTest.dispatch_shousersMockuldExecuteAsyncForEachChannelOfEachUser.executor": "Debug",
+    "JUnit.NotificationDispatcherTest.executor": "Run",
+    "JUnit.NotificationKafkaIT.testSendAndConsumeNotification.executor": "Debug",
+    "JUnit.NotificationSenderTest.shouldSendEmailAndReturnSuccess.executor": "Run",
+    "JUnit.NotificationSenderTest.shouldSendPushAndReturnSuccess.executor": "Run",
+    "JUnit.NotificationSenderTest.shouldSendSmsAndReturnSuccess.executor": "Run",
+    "JUnit.UserServiceTest.shouldFindUsersByCategoryFinance.executor": "Run",
+    "JUnit.UserServiceTest.shouldFindUsersByCategorySports.executor": "Run",
+    "JUnit.UserServiceTest.shouldReturnEmptyListWhenNoUserInCategory.executor": "Run",
+    "Maven.notify-central [clean,install].executor": "Run",
+    "Maven.notify-central [clean,package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.NotifyCentralApplication.executor": "Debug",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/victor/git/pessoal/code challenge/notify-central",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.notifycentral" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.notifycentral.controller" />
+      <recent name="org.example.notifycentral.async.kafka" />
+      <recent name="org.example.notifycentral.async.executor" />
+      <recent name="org.example.notifycentral.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.notifycentral.model" />
+      <recent name="org.example.notifycentral.async.kafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.notify-central [clean,install]">
+    <configuration name="NotificationControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="notify-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.notifycentral.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.notifycentral.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.notifycentral.controller.NotificationControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationControllerTest.getNotifications_paginationWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="notify-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.notifycentral.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.notifycentral.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.notifycentral.controller.NotificationControllerTest" />
+      <option name="METHOD_NAME" value="getNotifications_paginationWorks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationControllerTest.getStatusOrder_returnsValueFromRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="notify-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.notifycentral.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.notifycentral.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.notifycentral.controller.NotificationControllerTest" />
+      <option name="METHOD_NAME" value="getStatusOrder_returnsValueFromRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationControllerTest.submitMessage_executorType_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="notify-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.notifycentral.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.notifycentral.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.notifycentral.controller.NotificationControllerTest" />
+      <option name="METHOD_NAME" value="submitMessage_executorType_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationControllerTest.submitMessage_kafkaType_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="notify-central" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.notifycentral.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.notifycentral.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.example.notifycentral.controller.NotificationControllerTest" />
+      <option name="METHOD_NAME" value="submitMessage_kafkaType_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="notify-central [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="NotifyCentralApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="notify-central" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.notifycentral.NotifyCentralApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.NotificationControllerTest" />
+      <item itemvalue="JUnit.NotificationControllerTest.getNotifications_paginationWorks" />
+      <item itemvalue="JUnit.NotificationControllerTest.getStatusOrder_returnsValueFromRedis" />
+      <item itemvalue="JUnit.NotificationControllerTest.submitMessage_executorType_success" />
+      <item itemvalue="JUnit.NotificationControllerTest.submitMessage_kafkaType_success" />
+      <item itemvalue="Maven.notify-central [clean,install]" />
+      <item itemvalue="Spring Boot.NotifyCentralApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NotificationControllerTest" />
+        <item itemvalue="JUnit.NotificationControllerTest.submitMessage_executorType_success" />
+        <item itemvalue="JUnit.NotificationControllerTest.submitMessage_kafkaType_success" />
+        <item itemvalue="JUnit.NotificationControllerTest.getNotifications_paginationWorks" />
+        <item itemvalue="JUnit.NotificationControllerTest.getStatusOrder_returnsValueFromRedis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b211e6-dcbf-4c8d-bc4a-7de24861fc88" name="Changes" comment="" />
+      <created>1755072307680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755072307680</updated>
+      <workItem from="1755072308941" duration="29238000" />
+      <workItem from="1755197792688" duration="6282000" />
+      <workItem from="1755204894356" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/async/executor/NotificationDispatcherTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/async/executor/NotificationDispatcherTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/async/executor/NotificationDispatcherTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/notifycentral/async/kafka/NotificationDLQConsumer.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/controller/NotificationControllerTest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/controller/NotificationControllerTest.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/notifycentral/controller/NotificationControllerTest.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

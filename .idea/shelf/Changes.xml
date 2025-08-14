@@ -1,0 +1,24 @@
+<changelist name="Changes" date="1755204467591" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value="frontend/node_modules/.bin/esbuild" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/esbuild" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="frontend/node_modules/@esbuild/linux-x64/bin/esbuild" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/esbuild1" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="frontend/node_modules/@rollup/rollup-linux-x64-gnu/rollup.linux-x64-gnu.node" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/rollup.linux-x64-gnu.node" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="frontend/node_modules/@rollup/rollup-linux-x64-musl/rollup.linux-x64-musl.node" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/rollup.linux-x64-musl.node" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="frontend/node_modules/esbuild/bin/esbuild" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/esbuild2" />
+  </binary>
+</changelist>

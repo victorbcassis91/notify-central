@@ -1,0 +1,17 @@
+.notification-form {
+    padding: 24px;
+    background-color: var(--mui-background-paper, #fff);
+}
+
+.form-title {
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.form-control {
+    margin-bottom: 16px;
+}
+
+.message-field {
+    margin-bottom: 16px;
+}
